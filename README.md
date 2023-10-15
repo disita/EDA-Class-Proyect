@@ -6,6 +6,12 @@ El proyecto de análisis EDA es un hito de la materia de **Desarrollo de Proyect
 
 Este proyecto se basa en el conocimiento adquirido a través de la clase de [_Desarrollo de Proyectos I_](https://github.com/vcuspinera/UDG_MCD_Project_Dev_I) del programa de la Maestría en Ciencia de Datos de la Universidad de Guadalajara en conjunto con los aprendizajes adquiridos en el curso de [_Spatial Analysis & Geospatial Data Science in Python_](https://www.udemy.com/course/spatial-data-science-in-python/) (Udemy) que cursé hace unos años para aprender a mapear bases de datos en Python.
 
+----
+
+**Objetivo**: Analizar las temperaturas en el mundo a través de los datos de [**kaggle**](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data).
+
+----
+
 El EDA es una herramienta de análisis para una revisión iterativa de las bases de datos con la cual describimos las principales características usando estadística descriptiva y visualización de datos.
 Contenido:
 
@@ -18,5 +24,28 @@ Contenido:
 
 ----
 
+Para revisar el código, puedes encontrarlo en la carpeta de `src` o en esta liga.
+
+----
+
+### Resultados
+
 Los resultados muestran que, de manera general, existe una tendecia a la alza en las temperaturas de todo el mundo.
 
+![](https://github.com/disita/EDA-Class-Proyect/blob/main/results/temperaturas.png)
+
+También existe un aumeto por estación del año
+
+![](https://github.com/disita/EDA-Class-Proyect/blob/main/results/temperaturas_por_estacion.png)
+
+En México, las temperaturas promedio de algunas ciudades son las siguientes:
+
+![](https://github.com/disita/EDA-Class-Proyect/blob/main/results/temp_mex_mes.png)
+
+En Estados Unidos, así se distribuye la temperatura por estado:
+
+![](https://github.com/disita/EDA-Class-Proyect/blob/main/results/temp_usa.png)
+
+De manera general, en el mundo se tienen estas temperaturas promedio:
+
+![](https://github.com/disita/EDA-Class-Proyect/blob/main/results/temperaturas_por_pais.png)
