@@ -30,7 +30,7 @@ Contenido:
 
 ----
 
-Para revisar el código, puedes encontrarlo en la carpeta de `src` o en esta liga.
+Para revisar el código, puedes encontrarlo en la carpeta de `src` o en esta [liga](https://github.com/disita/EDA-Class-Proyect/blob/main/src/EDA_clima.ipynb).
 
 ----
 
